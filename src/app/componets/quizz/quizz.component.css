@@ -29,6 +29,7 @@
 .options{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin: 8px 0;
 }
 .btn-options{
@@ -43,6 +44,7 @@
     text-decoration: none;
     box-shadow: 0 3px 0 #0000003f;
     text-shadow:0 1px 0 #0000006b ;
+    margin: 3px;
 }
 .btn-options:hover{
     background-color:rgb(27, 224, 129) ;
